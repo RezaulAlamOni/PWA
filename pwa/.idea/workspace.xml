@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="05b35f2f-ca87-45fd-83a6-e16f22cbe469" name="Default" comment="">
+    <list default="true" id="984714db-c0ae-4dfb-8b85-bffb23f4aef5" name="Default Changelist" comment="">
       <change afterPath="$PROJECT_DIR$/../CodeIgniter/.editorconfig" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../CodeIgniter/.gitignore" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../CodeIgniter/application/.htaccess" afterDir="false" />
@@ -474,16 +474,16 @@
       <change afterPath="$PROJECT_DIR$/../SBDA/.idea/modules.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../SBDA/.idea/vcs.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../SBDA/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/icons/icon-128x128.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/icons/icon-144x144.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/icons/icon-152x152.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/icons/icon-384x384.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/icons/icon-512x512.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/icons/icon-72x72.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/icons/icon-96x96.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/manifest.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/service-worker.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../oniPortfolio/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../oniPortfolio/assets/icons/icon-128x128.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../oniPortfolio/assets/icons/icon-144x144.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../oniPortfolio/assets/icons/icon-152x152.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../oniPortfolio/assets/icons/icon-384x384.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../oniPortfolio/assets/icons/icon-512x512.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../oniPortfolio/assets/icons/icon-72x72.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../oniPortfolio/assets/icons/icon-96x96.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../oniPortfolio/manifest.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../oniPortfolio/service-worker.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../AdFendo" beforeDir="false" afterPath="$PROJECT_DIR$/../AdFendo" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../AdFendo.zip" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../AdFendo1" beforeDir="false" />
@@ -25370,8 +25370,8 @@
       <change beforePath="$PROJECT_DIR$/../laravel_final" beforeDir="false" afterPath="$PROJECT_DIR$/../laravel_final" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../music.com" beforeDir="false" afterPath="$PROJECT_DIR$/../music.com" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../myLaravel" beforeDir="false" afterPath="$PROJECT_DIR$/../myLaravel" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/index.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../oniPortfolio/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../oniPortfolio/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../oniPortfolio/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/../oniPortfolio/index.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../palup" beforeDir="false" afterPath="$PROJECT_DIR$/../palup" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -25388,37 +25388,32 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/index.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="212">
-              <caret line="888" column="83" selection-start-line="888" selection-start-column="71" selection-end-line="888" selection-end-column="83" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/manifest.json">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="109">
-              <caret line="44" column="4" selection-start-line="44" selection-start-column="4" selection-end-line="44" selection-end-column="4" />
+            <state relative-caret-position="1170">
+              <caret line="45" column="39" selection-start-line="45" selection-start-column="39" selection-end-line="45" selection-end-column="39" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/service-worker.js">
+        <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="78">
-              <caret line="3" column="24" selection-start-line="3" selection-start-column="24" selection-end-line="3" selection-end-column="24" />
+            <state relative-caret-position="286">
+              <caret line="17" column="56" selection-start-line="17" selection-start-column="56" selection-end-line="18" selection-end-column="46" />
+              <folding>
+                <element signature="n#style#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#script#4;n#div#0;n#body#0;n#html#0;n#!!top" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/contact.php">
+        <entry file="file://$PROJECT_DIR$/service-worker.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="260">
-              <caret line="10" column="23" selection-end-line="12" />
+            <state relative-caret-position="1378">
+              <caret line="53" selection-start-line="53" selection-end-line="53" />
             </state>
           </provider>
         </entry>
@@ -25427,12 +25422,14 @@
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>what i</find>
-      <find>from</find>
-      <find>form</find>
-      <find>my re</find>
-      <find>resume</find>
+      <find>self.addEventListener('fetch', event =&gt; {</find>
+      <find>img</find>
+      <find>related_applications</find>
+      <find>service</find>
     </findStrings>
+    <replaceStrings>
+      <replace>assets</replace>
+    </replaceStrings>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
@@ -25440,14 +25437,25 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/contact.php" />
-        <option value="$PROJECT_DIR$/index.php" />
-        <option value="$PROJECT_DIR$/manifest.json" />
+        <option value="$PROJECT_DIR$/sw.js" />
+        <option value="$PROJECT_DIR$/../place-finder/.env" />
+        <option value="$PROJECT_DIR$/../pwa-test/index.html" />
+        <option value="$PROJECT_DIR$/install.js" />
         <option value="$PROJECT_DIR$/service-worker.js" />
+        <option value="$PROJECT_DIR$/manifest.json" />
+        <option value="$PROJECT_DIR$/index.html" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds">
+  <component name="ProjectConfigurationFiles">
+    <option name="files">
+      <list>
+        <option value="$PROJECT_DIR$/.idea/vcs.xml" />
+        <option value="$PROJECT_DIR$/../MyPWA/.idea/MyPWA.iml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="7">
     <option name="x" value="96" />
     <option name="y" value="31" />
     <option name="width" value="1278" />
@@ -25459,33 +25467,29 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
             <path>
-              <item name="oniPortfolio" type="b2602c69:ProjectViewProjectNode" />
-              <item name="oniPortfolio" type="462c0819:PsiDirectoryNode" />
+              <item name="pwa" type="b2602c69:ProjectViewProjectNode" />
+              <item name="pwa" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/assets/icons" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
-    <property name="settings.editor.selected.configurable" value="fileTemplates" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\xampp\htdocs\oniPortfolio\assets\icons" />
-      <recent name="C:\xampp\htdocs\oniPortfolio\assets" />
-      <recent name="C:\xampp\htdocs\oniPortfolio" />
+      <recent name="D:\xampp\htdocs\pwa" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -25505,27 +25509,31 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="05b35f2f-ca87-45fd-83a6-e16f22cbe469" name="Default" comment="" />
-      <created>1527331861329</created>
+      <changelist id="984714db-c0ae-4dfb-8b85-bffb23f4aef5" name="Default Changelist" comment="" />
+      <created>1561174823142</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1527331861329</updated>
-      <workItem from="1527331864319" duration="11039000" />
-      <workItem from="1527408749827" duration="1450000" />
-      <workItem from="1527452435273" duration="1791000" />
-      <workItem from="1527504412025" duration="1105000" />
-      <workItem from="1527537358562" duration="27000" />
-      <workItem from="1566754831034" duration="4063000" />
+      <updated>1561174823142</updated>
+      <workItem from="1561174824266" duration="9032000" />
+      <workItem from="1561192211497" duration="3090000" />
+      <workItem from="1561196583136" duration="8000" />
+      <workItem from="1561347939560" duration="2893000" />
+      <workItem from="1561436926837" duration="843000" />
+      <workItem from="1566446989770" duration="5998000" />
+      <workItem from="1566472973154" duration="1117000" />
+      <workItem from="1566531392463" duration="7133000" />
+      <workItem from="1566711328620" duration="1804000" />
+      <workItem from="1566748480816" duration="3295000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="19475000" />
+    <option name="totallyTimeSpent" value="35213000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="96" y="31" width="1278" height="760" extended-state="0" />
+    <frame x="-8" y="-8" width="1382" height="784" extended-state="7" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.18154311" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25037822" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -25536,9 +25544,9 @@
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Terminal" order="9" visible="true" weight="0.32872504" />
-      <window_info anchor="bottom" id="Version Control" order="10" />
+      <window_info anchor="bottom" id="Database Changes" order="8" />
+      <window_info anchor="bottom" id="Version Control" order="9" />
+      <window_info anchor="bottom" id="Terminal" order="10" />
       <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -25549,43 +25557,45 @@
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" type="php">
-          <url>file://$PROJECT_DIR$/contact.php</url>
-          <line>6</line>
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
-  </component>
   <component name="editorHistoryManager">
-    <entry file="file://D:/Course/Udemy - php-with-laravel-for-beginners-become-a-master-in-laravel/01 The first steps/routes.php" />
-    <entry file="file://$PROJECT_DIR$/contact.php">
+    <entry file="file://$PROJECT_DIR$/sw.js" />
+    <entry file="file://$PROJECT_DIR$/app.js" />
+    <entry file="file://$PROJECT_DIR$/../place-finder/.env" />
+    <entry file="file://$PROJECT_DIR$/../pwa-test/js/city.list.js" />
+    <entry file="file://$PROJECT_DIR$/install.js" />
+    <entry file="file://$PROJECT_DIR$/../pwa-test/manifest.json" />
+    <entry file="file://$PROJECT_DIR$/../pwa-test/sw.js" />
+    <entry file="file://$PROJECT_DIR$/../pwa-test/index.html" />
+    <entry file="file://$PROJECT_DIR$/offline.html" />
+    <entry file="file://$APPLICATION_HOME_DIR$/plugins/JavaScriptLanguage/jsLanguageServicesImpl/external/lib.dom.d.ts">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="260">
-          <caret line="10" column="23" selection-end-line="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/index.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="212">
-          <caret line="888" column="83" selection-start-line="888" selection-start-column="71" selection-end-line="888" selection-end-column="83" />
+        <state relative-caret-position="26">
+          <caret line="17846" column="12" selection-start-line="17846" selection-start-column="12" selection-end-line="17846" selection-end-column="12" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/manifest.json">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="109">
-          <caret line="44" column="4" selection-start-line="44" selection-start-column="4" selection-end-line="44" selection-end-column="4" />
+        <state relative-caret-position="1170">
+          <caret line="45" column="39" selection-start-line="45" selection-start-column="39" selection-end-line="45" selection-end-column="39" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/service-worker.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="78">
-          <caret line="3" column="24" selection-start-line="3" selection-start-column="24" selection-end-line="3" selection-end-column="24" />
+        <state relative-caret-position="1378">
+          <caret line="53" selection-start-line="53" selection-end-line="53" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="286">
+          <caret line="17" column="56" selection-start-line="17" selection-start-column="56" selection-end-line="18" selection-end-column="46" />
+          <folding>
+            <element signature="n#style#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#script#4;n#div#0;n#body#0;n#html#0;n#!!top" />
+          </folding>
         </state>
       </provider>
     </entry>
