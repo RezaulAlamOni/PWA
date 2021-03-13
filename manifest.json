@@ -1,6 +1,6 @@
 {
-  "name": "Oni",
-  "short_name": "Oni",
+  "name": "Weather",
+  "short_name": "Weather",
   "icons": [
     {
       "src": "./assets/icons/icon-72x72.png",
@@ -43,7 +43,7 @@
       "type": "image/png"
     }
   ],
-  "start_url": "http://localhost/oniPortfolio/",
+  "start_url": "http://localhost:8088/oniPortfolio/",
   "display": "standalone",
   "background_color": "#3E4EB8",
   "theme_color": "#2F3BA2",

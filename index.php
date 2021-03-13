@@ -22,6 +22,7 @@
     <script src="assets/js/jquery-2.1.4.min.js"></script>
     <script src="//oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script>
     <script src="//oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
+    <link rel="manifest" href="manifest.json">
     <style>
         .social-links i, .work-inner i {
             margin-top:13px;
@@ -951,5 +952,29 @@
 <script src="assets/js/validator.min.js"></script>
 <script src="assets/js/jquery.mixitup.js"></script>
 <script src="assets/js/contact.js"></script>
+<script>
+    if ('serviceWorker' in navigator) {
+        window.addEventListener('load', function() {
+            navigator.serviceWorker.register('service-worker.js').then(function(registration) {
+                // Registration was successful
+                console.log('ServiceWorker registration successful with scope: ', registration.scope);
+            }, function(err) {
+                // registration failed :(
+                console.log('ServiceWorker registration failed: ', err);
+            });
+        });
+
+
+    }
+
+
+    window.addEventListener('offline', () => {
+        console.log('Ops! We are offline');
+    });
+    window.addEventListener('online', () => {
+        console.log('Back Online');
+    });
+
+</script>
 </body>
 </html>
