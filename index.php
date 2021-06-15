@@ -936,7 +936,7 @@
     <div class="container">
         <div class="row wow zoomIn" data-wow-delay="0.4s">
             <div class="col-md-12 text-center">
-                <p>&copy;2017 <strong>Rezaul Alam</strong>. All Rights Reserved</p>
+                <p>&copy;2021 <strong>Rezaul Alam Oni</strong>. All Rights Reserved</p>
             </div>
         </div>
     </div>
