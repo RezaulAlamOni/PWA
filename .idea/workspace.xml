@@ -2,78 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="05b35f2f-ca87-45fd-83a6-e16f22cbe469" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/PipelineViewerConfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/codestream.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/assets/css/animate.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/assets/css/bootstrap.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/assets/css/font-awesome.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/assets/css/magnific-popup.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/assets/css/owl.carousel.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/assets/css/responsive.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/assets/css/theme-color.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/assets/fonts/fontawesome-webfont.woff2" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/assets/img/Oni1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/assets/img/Oni93.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/assets/img/author.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/assets/img/favicon.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/assets/img/icon1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/assets/img/main-bg.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/assets/img/oni2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/assets/img/oni3.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/assets/img/service/1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/assets/img/service/2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/assets/img/service/3.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/assets/img/service/4.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/assets/img/service/5.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/assets/img/service/6.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/assets/img/testimonial/1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/assets/img/testimonial/2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/assets/img/testimonial/3.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/assets/img/testimonial/4.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/assets/img/work/1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/assets/img/work/10.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/assets/img/work/13.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/assets/img/work/14.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/assets/img/work/15.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/assets/img/work/2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/assets/img/work/3.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/assets/img/work/4.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/assets/img/work/5.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/assets/img/work/6.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/assets/img/work/7.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/assets/img/work/8.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/assets/img/work/9.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/assets/img/work/LMS.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/assets/img/work/a1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/assets/img/work/a3.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/assets/img/work/a4.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/assets/img/work/bulk.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/assets/img/work/bulk2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/assets/img/work/bulk3.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/assets/img/work/car.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/assets/img/work/cms1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/assets/img/work/cms2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/assets/img/work/hms.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/assets/img/work/p1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/assets/img/work/p11.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/assets/img/work/p12.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/assets/img/work/p2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/assets/js/contact.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/assets/js/jquery-2.1.4.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/assets/js/jquery.counterup.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/assets/js/jquery.mixitup.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/assets/js/jquery.stellar.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/assets/js/jquery.waypoints.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/assets/js/main.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/assets/js/plugins.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/assets/js/typed.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/assets/js/validator.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/assets/js/wow.min.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/js/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/assets/js/main.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/index.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/manifest.json" beforeDir="false" afterPath="$PROJECT_DIR$/manifest.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/service-worker.js" beforeDir="false" afterPath="$PROJECT_DIR$/service-worker.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -145,7 +74,7 @@
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/assets" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="nodejs_package_manager_path" value="npm" />
@@ -154,8 +83,8 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="F:\Xampp\htdocs\oniPortfolio\assets" />
       <recent name="F:\Xampp\htdocs\oniPortfolio" />
+      <recent name="F:\Xampp\htdocs\oniPortfolio\assets" />
       <recent name="C:\xampp\htdocs\oniPortfolio\assets\icons" />
       <recent name="C:\xampp\htdocs\oniPortfolio\assets" />
       <recent name="C:\xampp\htdocs\oniPortfolio" />
@@ -178,7 +107,8 @@
       <workItem from="1527504412025" duration="1105000" />
       <workItem from="1527537358562" duration="27000" />
       <workItem from="1566754831034" duration="4063000" />
-      <workItem from="1615656730855" duration="3030000" />
+      <workItem from="1615656730855" duration="3534000" />
+      <workItem from="1616181511099" duration="3820000" />
     </task>
     <servers />
   </component>
